@@ -39,4 +39,7 @@
 .profile_image {
   width: 500px;
   height: auto;
+  border-radius: 100%;
+  border-width:thick; 
+  border-color:white; 
 }
